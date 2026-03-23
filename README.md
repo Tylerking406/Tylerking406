@@ -8,7 +8,9 @@
 ## 🕐 Local Time (Cape Town, SAST):
 
 <!--START_SECTION:time-->
-![SAST Time](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=378ADD&width=300&lines=Cape+Town+%7C+UTC%2B2+%7C+SAST)
+![SAST Time](https://img.shields.io/badge/Cape%20Town-07%3A17%20PM%20SAST-378ADD?style=flat&logo=clockify&logoColor=white)
+
+> 🗓️ Monday, 23 March 2026 · UTC+2
 <!--END_SECTION:time-->
 
 > 🌍 Based in Cape Town, South Africa (UTC+2)
