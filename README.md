@@ -8,9 +8,7 @@
 ## 🕐 Local Time (Cape Town, SAST):
 
 <!--START_SECTION:time-->
-![SAST Time](https://img.shields.io/badge/Cape%20Town-07%3A17%20PM%20SAST-378ADD?style=flat&logo=clockify&logoColor=white)
-
-> 🗓️ Monday, 23 March 2026 · UTC+2
+![SAST Time](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=378ADD&width=300&lines=Cape+Town+%7C+UTC%2B2+%7C+SAST)
 <!--END_SECTION:time-->
 
 > 🌍 Based in Cape Town, South Africa (UTC+2)
@@ -38,6 +36,15 @@
 **Tools**
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
+
+---
+
+## 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tylerking406/Tylerking406/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tylerking406/Tylerking406/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Tylerking406/Tylerking406/output/github-snake.svg" />
+</picture>
 
 ---
 
