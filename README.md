@@ -8,7 +8,7 @@
 ## 🕐 Local Time (Cape Town, SAST):
 
 <!--START_SECTION:time-->
-![SAST Time](https://img.shields.io/badge/Cape%20Town-01%3A44%20AM%20SAST-378ADD?style=flat&logo=clockify&logoColor=white)
+![SAST Time](https://img.shields.io/badge/Cape%20Town-06%3A02%20AM%20SAST-378ADD?style=flat&logo=clockify&logoColor=white)
 
 > 🗓️ Wednesday, 03 June 2026 · UTC+2
 <!--END_SECTION:time-->
